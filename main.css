@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&display=swap');
+.container {
+  text-align: center;
+}
 #chatcontent {
   font-family: 'M PLUS Rounded 1c', sans-serif;
   font-size: 16px;

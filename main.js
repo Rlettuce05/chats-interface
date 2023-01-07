@@ -1,1 +1,1 @@
-var input = document.getElementById("input");
+var input = document.getElementById("input").value;
